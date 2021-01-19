@@ -1,0 +1,18 @@
+### idea ###
+.idea
+*.iml
+target/
+.project
+bootstrap-local.yml
+
+.vscode
+.settings
+
+
+#infer
+infer-out
+/config/bootstrap.yml
+/common/.rebel.xml.bak
+
+#else
+ImageFile
